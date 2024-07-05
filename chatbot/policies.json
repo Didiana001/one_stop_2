@@ -1,0 +1,14 @@
+{
+    "policies": [
+        {
+            "id": 1,
+            "name": "refunds policy",
+            "details": "There shall be no refunds in respect of properly invoiced tuition and other fees paid, except where the student withdrawals with permission and the refund is authorised by the Registrar. 9. Where a refund has been authorised, an appropriate surcharge shall be applicable 9.3 No refunds shall be made to any person other than from whom the original payment was received. 9.4 No refunds shall be paid on photocopies of receipts"
+        },
+        {
+            "id": 2,
+            "name": "payments",
+            "details": "Payments shall only be made on official pre-numbered payment vouchers. All payments must be supported by appropriate and relevant documentation. No payments shall be made on the basis of a statement of account. Payments shall only be made to the persons to whom the payment is due. Only in the following circumstances may payments be made other than to the person to whom  on the written authority of the person or firm to whom the payment is due or on the production of a power of attorney or letters of administration; where there is a court order directing that payment be made to a duly appointed receiver, an official receiver, a trustee in bankruptcy or a named third person"
+        }
+    ]
+}
